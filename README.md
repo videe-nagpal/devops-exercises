@@ -7986,13 +7986,13 @@ If you are looking for a way to prepare for a certain exam this is the section f
 
 ## Other DevOps Projects
 
-<p align="center"><a href="https://github.com/bregman-arie/howtheydevops"><img src="images/how_they_devops.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/devops_resources.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/infraverse"><img src="images/infraverse.png"/></a></p>
+<p align="center"><a href="https://github.com/videe-nagpal/howtheydevops"><img src="images/how_they_devops.png"/></a></p>
+<p align="center"><a href="https://github.com/videe-nagpal/devops-resources"><img src="images/devops_resources.png"/></a></p>
+<p align="center"><a href="https://github.com/videe-nagpal/infraverse"><img src="images/infraverse.png"/></a></p>
 
 ## Credits
 
-Thanks to all of our amazing [contributors](https://github.com/bregman-arie/devops-exercises/graphs/contributors) who make it easy for everyone to learn new things :)
+Thanks to all of our amazing [contributors](https://github.com/videe-nagpal/devops-exercises/graphs/contributors) who make it easy for everyone to learn new things :)
 
 Logos credits can be found [here](credits.md)
 
